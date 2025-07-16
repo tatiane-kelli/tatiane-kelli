@@ -37,11 +37,11 @@
 ###
 
 <p align="left">
-  -💻 Técnica em Desenvolvimento de Sistemas pelo SENAI<br>
-  -🎓 Bacharel em Sistemas de Informação pela UNIVALE<br>
-  -👩🏻‍💻 Aluna JStack, visando me especializar no universo JavaScript<br>
-  -📚 Autodidata<br>
-  -🔭 I’m currently working as an QA Assistant<br>
+  -💻 Systems Development Technician from SENAI<br>
+  -🎓 Bachelor's Degree in Information Systems from UNIVALE<br>
+  -👩🏻‍💻 JStack student, aiming to specialize in the JavaScript universe<br>
+  -📚 Brazilian self-taught English and Italian speaker<br>
+  -🔭 Currently working as an QA Assistant<br>
   -🌱 I’m currently learning GSAP, AI Agents and Tailwind CSS<br>
 </p>  
 
