@@ -40,9 +40,9 @@
   -💻 Técnica em Desenvolvimento de Sistemas pelo SENAI<br>
   -🎓 Bacharel em Sistemas de Informação pela UNIVALE<br>
   -👩🏻‍💻 Aluna JStack, visando me especializar no universo JavaScript<br>
-  -📚 Autodidata
-  -🔭 I’m currently working as an QA Assistant
-  -🌱 I’m currently learning GSAP, AI Agents and Tailwind CSS
+  -📚 Autodidata<br>
+  -🔭 I’m currently working as an QA Assistant<br>
+  -🌱 I’m currently learning GSAP, AI Agents and Tailwind CSS<br>
 </p>  
 
 ###
