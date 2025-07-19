@@ -39,7 +39,7 @@
 <p align="left">
   -💻 Systems Development Technician from SENAI<br>
   -🎓 Bachelor's Degree in Information Systems from UNIVALE<br>
-  -👩🏻‍💻 JStack student, aiming to specialize in the JavaScript universe<br>
+  -👩🏻‍💻 JStack's student, aiming to specialize in the JavaScript universe<br>
   -📚 Brazilian self-taught English and Italian speaker<br>
   -🔭 Currently working as an QA Assistant<br>
   -🌱 I’m currently learning GSAP, AWS, AI Agents and Tailwind CSS<br>
