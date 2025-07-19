@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a front-end developer aligned with acessibility, inovation, willing to create functional and beautiful solutions using the best practices and creativity.</p>
+<p align="left">I'm a front-end developer aligned with accessibility, innovation, willing to create functional and beautiful solutions using the best practices and creativity.</p>
 
 ###
 
