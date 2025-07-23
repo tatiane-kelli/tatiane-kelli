@@ -1,4 +1,4 @@
-<h2 align="left">🦇👋🏻Hi, I'm Tatiane</h2>
+<h1 align="left">🦇👋🏻Hi, I'm Tatiane</h1>
 
 ###
 
@@ -36,18 +36,11 @@
 
 ###
 
-<p align="left">
-  -💻 Systems Development Technician from SENAI<br>
-  -🎓 Bachelor's Degree in Information Systems from UNIVALE<br>
-  -👩🏻‍💻 JStack's student, aiming to specialize in the JavaScript universe<br>
-  -📚 Brazilian self-taught English and Italian speaker<br>
-  -🔭 Currently working as an QA Assistant<br>
-  -🌱 I’m currently learning GSAP, AWS, AI Agents and Tailwind CSS<br>
-</p>  
+<p align="left">-💻 Systems Development Technician from SENAI<br>-🎓 Bachelor's Degree in Information Systems from UNIVALE<br>-👩🏻‍💻 JStack's student, aiming to specialize in the JavaScript universe<br>-📚 Brazilian self-taught English and Italian speaker<br>-🔭 Currently working as an QA Assistant<br>-🌱 I’m currently learning GSAP, AWS, AI Agents and Tailwind CSS</p>
 
 ###
 
-<img alt="pacman contribution graph" src="https://raw.githubusercontent.com/tatiane-kelli/tatiane-kelli/output/pacman-contribution-graph.svg">
+<img src="https://raw.githubusercontent.com/tatiane-kelli/tatiane-kelli/output/snake.svg" alt="Snake animation" />
 
 ###
 
