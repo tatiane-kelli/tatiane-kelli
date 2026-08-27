@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a front-end developer aligned with accessibility, innovation, willing to create functional and beautiful solutions using the best practices and creativity.</p>
+<p align="left">I'm a full-stack developer aligned with accessibility, innovation, willing to create functional and beautiful solutions using the best practices and creativity.</p>
 
 ###
 
@@ -36,5 +36,5 @@
 
 ###
 
-<p align="left">-💻 Systems Development Technician from SENAI<br>-🎓 Bachelor's Degree in Information Systems from UNIVALE<br>-👩🏻‍💻 JStack's student, aiming to specialize in the JavaScript universe<br>-📚 Brazilian self-taught English and Italian speaker<br>-🌱 I’m currently learning GSAP, AWS, AI Agents and Tailwind CSS</p>
+<p align="left">-💻 Systems Development Technician from SENAI<br>-🎓 Bachelor's Degree in Information Systems from UNIVALE<br>-👩🏻‍💻 JStack's student, aiming to specialize in the JavaScript universe<br>-📚 Brazilian self-taught English speaker<br>-🌱 I’m currently learning GSAP, AWS and Tailwind CSS</p>
 
