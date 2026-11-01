@@ -36,5 +36,5 @@
 
 ###
 
-<p align="left">-💻 Systems Development Technician from SENAI<br>-🎓 Bachelor's Degree in Information Systems from UNIVALE<br>-👩🏻‍💻 JStack's student, aiming to specialize in the JavaScript universe<br>-📚 Brazilian self-taught English speaker<br>-🌱 I’m currently learning GSAP, AWS and Tailwind CSS</p>
+<p align="left">-💻 Systems Development Technician from SENAI<br>-🎓 Bachelor's Degree in Information Systems from UNIVALE<br>-👩🏻‍💻 JStack's student, aiming to specialize in the JavaScript universe<br>-📚 Brazilian self-taught English speaker<br>-🌱 Webmaster at Fundação Percival Farqhuar / Univale</p>
 
